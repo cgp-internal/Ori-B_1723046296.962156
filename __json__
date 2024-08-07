@@ -1,0 +1,15 @@
+{
+    "hello.py": {
+        "description": "Prints 'Hello World' to the console.",
+        "dependencies": {}
+    },
+    "README.md": {
+        "description": "README with basic documentation and 'how to run' guide"
+    },
+    ".gitignore": {
+        "description": ".gitignore with Python cache files"
+    },
+    "run.sh": {
+        "description": "bash run script, should: install Python, init a project, and run the script"
+    }
+}
